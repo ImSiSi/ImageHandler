@@ -12,16 +12,16 @@ A simple Qt + OpenCV project for basic image handling:
 ## 🖼 Screenshots
 
 ### 🔹 Initial Interface
-！<img src="images/default.png" width="300" />
+！<img src="image/default.png" width="300" />
 
 ### 🔹 Load Iamge
-！<img src="images/load1.png" width="300" />
+！<img src="image/load1.png" width="300" />
 
 ### 🔹 Slide HSR
-！<img src="images/load2.png" width="300" />
+！<img src="image/load2.png" width="300" />
 
 ### 🔹 Edge detection
-！<img src="images/edge.png" width="300" />
+！<img src="image/edge.png" width="300" />
 
 
 ## Usage
