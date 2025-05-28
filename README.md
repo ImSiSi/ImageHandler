@@ -38,6 +38,9 @@ cd build
 cmake ..
 make
 ./imageHandler
+
 3️⃣ Load an image using the Choose File button.
+
 4️⃣ Try the different buttons and sliders to manipulate your image!
+
 5️⃣ Save your edited image using the Save button.
