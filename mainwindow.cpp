@@ -10,6 +10,7 @@ MainWindow::MainWindow(QWidget *parent)
 {
     ui->setupUi(this);
     ui->imageWidget->setFixedWidth(500);
+    this->setWindowTitle("ImageHandler");
 }
 
 MainWindow::~MainWindow()
